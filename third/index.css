@@ -9,7 +9,7 @@ body {
     box-sizing: border-box;
     padding: 25px;
 }
-.small-blue {
+.small-blue  { 
     height: 105px;
     width: 105px;
     background-color: blue;

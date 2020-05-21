@@ -1,8 +1,8 @@
-body {
+body  {
     padding: 25px;
     margin: 0;
 }
-.box-1 {
+.box-1  {
     width: 100%;
     padding: 10px;
     border: 5px solid black;
